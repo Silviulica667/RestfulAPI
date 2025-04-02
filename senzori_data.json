@@ -1,0 +1,389 @@
+[
+    {
+        "id": 135,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 45,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:17:50"
+    },
+    {
+        "id": 135,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 47,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:29:10"
+    },
+    {
+        "id": 135,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 45,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:30:23"
+    },
+    {
+        "id": 135,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 34,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:33:40"
+    },
+    {
+        "id": 134,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -33,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:33:49"
+    },
+    {
+        "id": 134,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 31,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:36:32"
+    },
+    {
+        "id": 14,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 27,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:36:34"
+    },
+    {
+        "id": 56,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -24,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:36:36"
+    },
+    {
+        "id": 56,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -14,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:37:20"
+    },
+    {
+        "id": 34,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -30,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:37:22"
+    },
+    {
+        "id": 34,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 33,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:38:32"
+    },
+    {
+        "id": 54,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 29,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:38:41"
+    },
+    {
+        "id": 54,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 37,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:39:18"
+    },
+    {
+        "id": 32,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 39,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:39:21"
+    },
+    {
+        "id": 32,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -31,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:40:53"
+    },
+    {
+        "id": 43,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -22,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:40:54"
+    },
+    {
+        "id": 54,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -11,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:40:56"
+    },
+    {
+        "id": 54,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 4,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:41:42"
+    },
+    {
+        "id": 32,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 43,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:41:44"
+    },
+    {
+        "id": 32,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 40,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:42:33"
+    },
+    {
+        "id": 43,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -48,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:42:34"
+    },
+    {
+        "id": 43,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -27,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:45:46"
+    },
+    {
+        "id": 321,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 10,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:45:48"
+    },
+    {
+        "id": 432,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -47,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:45:49"
+    },
+    {
+        "id": 432,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -39,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:47:19"
+    },
+    {
+        "id": 3213,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -15,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:47:21"
+    },
+    {
+        "id": 423,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": 45,
+        "unitate": "C",
+        "locatie": "Romania",
+        "time": "2025-04-02 23:47:23"
+    },
+    {
+        "id": 432,
+        "nume": "senzor",
+        "tip": "dht",
+        "valoare": -36,
+        "unitate": "C",
+        "locatie": "Franta",
+        "time": "2025-04-02 23:47:29"
+    },
+    {
+        "id": 123,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 29,
+        "unitate": "C",
+        "locatie": "Ro",
+        "time": "2025-04-02 23:47:56"
+    },
+    {
+        "id": 321,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 35,
+        "unitate": "C",
+        "locatie": "Ro",
+        "time": "2025-04-02 23:47:59"
+    },
+    {
+        "id": 5235,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 27,
+        "unitate": "C",
+        "locatie": "Ro",
+        "time": "2025-04-02 23:48:00"
+    },
+    {
+        "id": 231,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 2,
+        "unitate": "C",
+        "locatie": "Ro",
+        "time": "2025-04-02 23:48:02"
+    },
+    {
+        "id": 231,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 10,
+        "unitate": "C",
+        "locatie": "Fr",
+        "time": "2025-04-02 23:48:05"
+    },
+    {
+        "id": 231,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 15,
+        "unitate": "C",
+        "locatie": "Fr",
+        "time": "2025-04-02 23:48:57"
+    },
+    {
+        "id": 421,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 16,
+        "unitate": "C",
+        "locatie": "Fr",
+        "time": "2025-04-02 23:48:58"
+    },
+    {
+        "id": 5423,
+        "nume": "THD",
+        "tip": "temp",
+        "valoare": 24,
+        "unitate": "C",
+        "locatie": "Fr",
+        "time": "2025-04-02 23:49:00"
+    },
+    {
+        "id": 123,
+        "nume": "3",
+        "tip": "df",
+        "valoare": 26,
+        "unitate": "sd",
+        "locatie": "sd",
+        "time": "2025-04-02 23:55:56"
+    },
+    {
+        "id": 123,
+        "nume": "fds",
+        "tip": "asd",
+        "valoare": 34,
+        "unitate": "asd",
+        "locatie": "asd",
+        "time": "2025-04-02 23:57:03"
+    },
+    {
+        "id": 123,
+        "nume": "fds",
+        "tip": "asd",
+        "valoare": 21,
+        "unitate": "asd",
+        "locatie": "asd",
+        "time": "2025-04-02 23:57:15"
+    },
+    {
+        "id": 123,
+        "nume": "fds",
+        "tip": "asd",
+        "valoare": 4,
+        "unitate": "asd",
+        "locatie": "asd",
+        "time": "2025-04-02 23:57:48"
+    },
+    {
+        "id": 123,
+        "nume": "123",
+        "tip": "123123",
+        "valoare": 27,
+        "unitate": "123",
+        "locatie": "123",
+        "time": "2025-04-02 23:58:24"
+    },
+    {
+        "id": 123,
+        "nume": "123",
+        "tip": "123123",
+        "valoare": 33,
+        "unitate": "123",
+        "locatie": "123",
+        "time": "2025-04-02 23:58:44"
+    },
+    {
+        "id": 123,
+        "nume": "fes",
+        "tip": "sdf",
+        "valoare": 3,
+        "unitate": "sdf",
+        "locatie": "sdf",
+        "time": "2025-04-02 23:58:56"
+    }
+]

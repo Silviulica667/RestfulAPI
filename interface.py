@@ -34,7 +34,7 @@ def add_sensor():
         "id": int(entry_id.get()),
         "nume": entry_nume.get(),
         "tip": entry_tip.get(),
-        "valoare": int(random.randint(-50,50)),
+        "valoare": int(random.randint(0,50)),
         "unitate": entry_unitate.get(),
         "locatie": entry_locatie.get(),
         "time": entry_data.get()
@@ -51,10 +51,10 @@ def delete_sensor():
     sensor_id = int(sensor_text.split(",")[0].strip()) 
 
     response = requests.delete(f"{API_URL}/{sensor_id}")
-    if response.status_code == 200:
+    if response.status_code == 202:
         refresh_list()
     else:
-        messagebox.showerror("Eroare", "Nu s-a putut șterge senzorul.")
+        messagebox.showerror("Eroare")
 
 def update_time():
 
