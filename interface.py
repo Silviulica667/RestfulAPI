@@ -7,6 +7,7 @@ import json
 
 API_URL = "http://127.0.0.1:5000/senzori"
 
+
 def refresh_list():
     response = requests.get(API_URL)
     if response.status_code == 200:
@@ -41,7 +42,22 @@ def add_sensor():
     }
 
     requests.post(API_URL, json=sensor_data)
-    add_to_json(sensor_data)
+    refresh_list()
+
+def update_sensor():
+    sensor_id = int(entry_id.get())
+
+    sensor_data = {
+        "id": sensor_id,
+        "nume": entry_nume.get(),
+        "tip": entry_tip.get(),
+        "valoare": random.randint(0, 50),
+        "unitate": entry_unitate.get(),
+        "locatie": entry_locatie.get(),
+        "time": entry_data.get()
+    }
+
+    requests.put(f"{API_URL}/{sensor_id}", json=sensor_data)
     refresh_list()
 
 def delete_sensor():
@@ -50,11 +66,9 @@ def delete_sensor():
     
     sensor_id = int(sensor_text.split(",")[0].strip()) 
 
-    response = requests.delete(f"{API_URL}/{sensor_id}")
-    if response.status_code == 202:
-        refresh_list()
-    else:
-        messagebox.showerror("Eroare")
+    requests.delete(f"{API_URL}/{sensor_id}")
+    refresh_list()
+
 
 def update_time():
 
@@ -102,6 +116,7 @@ update_time()
 
 #butoane
 tk.Button(frame, text="Adaugă senzor", command=add_sensor).pack(pady=5)
+tk.Button(frame, text="Update senzor", command=update_sensor).pack(pady=5)
 tk.Button(frame, text="Sterge senzor", command=delete_sensor).pack(pady=5)
 
 refresh_list()
