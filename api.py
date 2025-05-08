@@ -49,7 +49,7 @@ def get_sensors():
             })
         return jsonify(sensors), 200
     except Exception as e:
-        conn.rollback()  # IMPORTANT: Reset transaction state
+        conn.rollback()  #reset
         return jsonify({"error": str(e)}), 400
     
 #filtram dupa id
